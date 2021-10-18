@@ -3,12 +3,12 @@
 Somos o grupo 15 do segundo semestre PROA 2021 😄
 
 Integrantes
-- Abner
+- Abner Pereira dos Santos
 - Antony
 - Leandro de Oliveira Custódio
-- Murilo
-- Pedro
-- Vinicius
+- Murilo Ernesto Santos
+- Pedro Ferreira da Silva
+- Vinicius Rodrigues de Jesu
 ##
 
 <div>
@@ -26,7 +26,7 @@ Integrantes
   
 ##
 
-  
+  <!--
 ![Snake animation](https://github.com/LPHBackspace/LPHBackspace/blob/output/github-contribution-grid-snake.svg)   
-  
+  -->
   ##
