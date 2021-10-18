@@ -24,10 +24,6 @@ Integrantes
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
     
-  
 ##
-
-  <!--
-![Snake animation](https://github.com/LPHBackspace/LPHBackspace/blob/output/github-contribution-grid-snake.svg)   
-  -->
-  ##
+    
+![Snake animation](https://github.com/DemodayGrupo15PROA/DemodayGrupo15PROA/blob/output/github-contribution-grid-snake.svg)
