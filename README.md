@@ -9,7 +9,7 @@ Integrantes
 - Leandro de Oliveira Custódio
 - Murilo Ernesto Santos
 - Pedro Ferreira da Silva
-- Vinicius Rodrigues de Jesu
+- Vinicius Rodrigues de Jesus
 ##
 
 <div>
