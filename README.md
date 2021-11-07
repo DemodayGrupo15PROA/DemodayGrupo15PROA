@@ -7,11 +7,11 @@ Integrantes
 - Abner Pereira dos Santos
 - Antony Fernando Ribas Rocha Silva
 - Gustavo Silva Teixeira
-- Leandro de Oliveira Custódio
-- Murilo Ernesto Santos
+- Leandro de Oliveira Custódio 🥶
+- Murilo Ernesto Santos 🧐
 - Pedro Ferreira da Silva
-- Vinicius Rodrigues de Jesus
-##
+- Vinicius Rodrigues de Jesus 🤠
+## 
 
 <div>
   <a href="https://github.com/DemodayGrupo15PROA">
