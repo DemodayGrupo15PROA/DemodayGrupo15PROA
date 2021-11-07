@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/DemodayGrupo15PROA/imagens/blob/main/banner_blue.jpg?raw=true)
 <h1>Oi, tudo bem com você? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h1>Oi, tudo bem com você?👋</h1>
 
 Somos o grupo 15 do segundo semestre PROA 2021 😄
 
