@@ -7,7 +7,7 @@ Integrantes
 - Abner Pereira dos Santos
 - Antony Fernando Ribas Rocha Silva
 - Gustavo Silva Teixeira
-- Leandro de Oliveira Custódio 🥶
+- Leandro de Oliveira Custódio 🤡
 - Murilo Ernesto Santos 🧐
 - Pedro Ferreira da Silva
 - Vinicius Rodrigues de Jesus 🤠
