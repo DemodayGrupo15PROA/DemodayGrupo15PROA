@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/DemodayGrupo15PROA/imagens/blob/main/AMATERASU%20(1).gif)
+![MasterHead](https://github.com/DemodayGrupo15PROA/imagens/blob/main/AMATERASU%20(2).gif)
 <h1>Oi, tudo bem com você? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 Somos o grupo 15 do segundo semestre PROA 2021 😄
