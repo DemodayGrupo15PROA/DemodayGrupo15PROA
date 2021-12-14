@@ -6,7 +6,7 @@ Somos o grupo 15 do segundo semestre PROA 2021 😄
 Integrantes:
 - Abner Pereira dos Santos 👺
 - Antony Fernando Ribas Rocha Silva 🥱
-- Gustavo Silva Teixeira
+- Gustavo Silva Teixeira 🦁 
 - Leandro de Oliveira Custódio 🤡
 - Murilo Ernesto Santos 🧐
 - Pedro Ferreira da Silva
